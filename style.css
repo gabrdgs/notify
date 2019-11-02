@@ -4,10 +4,11 @@ body{
 .navbar
 {
     margin: 0 auto;
+    width: 100%;
 }
 nav{
     background-color: #56AA7A;
-    width: 100%;
+    width: 105.4%;
     height: 10%;
     margin-top: 0 auto;
     border-top: 0 auto;
@@ -27,18 +28,16 @@ p{
     height: 50%;
 }
 .mão{
-    margin-left: 55%;
-    margin-top: 12.5%;
+    margin-left: 70px;
+    margin-top: 96px;
 }
 h1{
     font-family: 'Pacifico', cursive;
     font-size: 40pt;
-    margin-left: 5%;
-    margin-top: 100%;
-    color:white;
+    margin-left: 150px;
+    margin-top: 160px;
+    color: white;
     font-style: normal;
-    text-decoration-style: none;;
-    margin-bottom: 0 auto;
 }
 .ponto{
     margin: 10%;
@@ -46,14 +45,14 @@ h1{
     padding-top: 1%;
     width: 15px;
     height: 5px;
-    margin-left: 155px;
+    margin-left: 180px;
     margin-top: -130px;
 }
 h2{
     font-size: 12pt;
-    margin-left: -40%;
-    margin-top: 48%;
-    margin-right: -90%;
-    color:white;
+    margin-left: 40px;
+    margin-top: 80px;
+    margin-right: 70px;
+    color: white;
     font-family: 'Arial';
 }
