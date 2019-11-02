@@ -1,0 +1,25 @@
+body{
+    margin: 0 auto;
+}
+nav{
+    background-color: #56AA7A;
+    width: 100%;
+    height: 10%;
+    margin: 0 auto;
+    border: 0 auto;
+    padding-top: 0,5%;
+}
+p{
+    color:	#56AA7A;
+}
+.header
+{
+    display: flex;
+    width: 50%;
+    height: 50%;
+}
+.fundo{
+    background-image: url(banner.png);
+    width: 50%;
+    height: 50%;
+}
