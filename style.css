@@ -16,6 +16,7 @@ nav{
 }
 p{
     color:	#56AA7A;
+    margin:0 auto;
 }
 /**-----------------SEÇÃO 1---------------------**/
 .parte01{
@@ -241,7 +242,7 @@ input{
 {
     width: 400px;
     margin-left: 800px;
-    margin-top: -270px;
+    margin-top: -230px;
 }
 button{
     font-size: 12pt;
@@ -297,10 +298,10 @@ footer{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: space-between;
     background-color: #E3E3E3;
 }
 .ft{
     margin-right: 15px ;
+    margin-left: 15px;
     color: dimgrey; ;
 }
